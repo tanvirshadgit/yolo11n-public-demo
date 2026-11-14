@@ -4,3 +4,4 @@ torch==2.5.1
 torchvision==0.20.1
 pillow>=10.4,<12
 pandas>=2.2,<3
+opencv-python-headless==4.10.0.84
